@@ -34,9 +34,9 @@ FlexiFit Gym wants a database to manage its members, trainers, and fitness progr
 
 ### Assumptions
 
-1.Each session involves exactly one trainer and one member.
-2.Programs are predefined (Yoga, Zumba, Weight Training, etc.).
-3.Payments are only for membership or session bookings.
+- Each session involves exactly one trainer and one member.
+- Programs are predefined (Yoga, Zumba, Weight Training, etc.).
+- Payments are only for membership or session bookings.
 
 ---
 
@@ -68,9 +68,9 @@ The Central Library wants to manage book lending and cultural events.
 
 
 ### Assumptions
-1.Books can be borrowed multiple times by different Members.
-2.Each Event happens in one Room at a specific time.
-3.A Speaker can participate in multiple Events.
+- Books can be borrowed multiple times by different Members.
+- Each Event happens in one Room at a specific time.
+- A Speaker can participate in multiple Events.
 
 ---
 
@@ -103,9 +103,9 @@ A popular restaurant wants to manage reservations, orders, and billing.
 
 ### Assumptions
 
-1.One reservation uses one table and one waiter.
-2.Bill is generated automatically after service.
-3.Customer details stored for every reservation.
+- One reservation uses one table and one waiter.
+- Bill is generated automatically after service.
+- Customer details stored for every reservation.
 
 ---
 
