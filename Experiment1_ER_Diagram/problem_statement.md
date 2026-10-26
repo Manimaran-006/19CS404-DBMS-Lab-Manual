@@ -33,6 +33,7 @@ FlexiFit Gym wants a database to manage its members, trainers, and fitness progr
 
 
 ### Assumptions
+
 1.Each session involves exactly one trainer and one member.
 2.Programs are predefined (Yoga, Zumba, Weight Training, etc.).
 3.Payments are only for membership or session bookings.
@@ -101,6 +102,7 @@ A popular restaurant wants to manage reservations, orders, and billing.
 
 
 ### Assumptions
+
 1.One reservation uses one table and one waiter.
 2.Bill is generated automatically after service.
 3.Customer details stored for every reservation.
